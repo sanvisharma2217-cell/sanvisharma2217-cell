@@ -7,7 +7,6 @@ I'm a Computer Science student passionate about building software, exploring Art
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering Student
-- 🐍 Currently working with Python & AI
 - 🌐 Skilled in HTML & CSS
 - ⚡ Currently learning JavaScript
 - 💻 Interested in Software Development
