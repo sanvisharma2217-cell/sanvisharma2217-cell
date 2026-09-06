@@ -13,7 +13,7 @@ B.Tech CSE Student | HTML · CSS · JavaScript · React.js | Software Developmen
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanvisharma2217-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sanvisharma2217-cell&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=sanvisharma2217-cell&icon=0&color=0)](https://visitcount.itsvg.in)
