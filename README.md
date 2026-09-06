@@ -1,45 +1,21 @@
-# Hi there! 👋 I'm Sanvi Sharma
+# 💫 About Me:
+B.Tech CSE Student | HTML · CSS · JavaScript · React.js | Software Development | Finance Enthusiast
 
-### B.Tech CSE Student | Python & AI | HTML • CSS • JavaScript | Software Development | Finance Enthusiast
 
-I'm a Computer Science student passionate about building software, exploring Artificial Intelligence, and learning new technologies.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanvi-sharma-341190381) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sanvi Sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanvisharma2217@gmail.com) 
 
-### 👩‍💻 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sanvisharma2217-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sanvisharma2217-cell&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanvisharma2217-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🎓 B.Tech Computer Science & Engineering Student
-- 🌐 Skilled in HTML & CSS
-- ⚡ Currently learning JavaScript
-- 💻 Interested in Software Development
-- 💰 Exploring Finance & Financial Technology
-- 🚀 Always learning, building, and improving
-
-### 🛠️ Skills & Technologies
-
-- Python
-- Artificial Intelligence
-- HTML
-- CSS
-- JavaScript
-- Software Development
-- Git & GitHub
-- Financial Management
-- FinTech
-
-### 📌 Featured Projects
-
-- 🔐 Password Generator — Python
-- ✅ To-Do List — Python
-- 🌐 Web Development Projects
-
-### 🎯 Current Focus
-
-Learning JavaScript, improving my software development skills, and building practical projects at the intersection of Software Development, AI & Finance.
-
-### 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sanvi-sharma-341190381
-- 📧 Email: sanvisharma2217@gmail.com
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sanvisharma2217-cell&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sanvisharma2217-cell&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐ Feel free to explore my repositories and projects!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
