@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sanvi Sharma
 
-### B.Tech CSE Student | Python & AI | HTML • CSS • JavaScript | Software Development | Finance Enthusiast
+### B.Tech CSE Student | HTML · CSS · JavaScript · React.js | Software Development | Finance Enthusiast
 
 I'm a Computer Science student passionate about building software, exploring Artificial Intelligence, and learning new technologies.
 
@@ -8,7 +8,7 @@ I'm a Computer Science student passionate about building software, exploring Art
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 🌐 Skilled in HTML & CSS
-- ⚡ Currently learning JavaScript
+- ⚡ Currently learning JavaScript and React.js
 - 💻 Interested in Software Development
 - 💰 Exploring Finance & Financial Technology
 - 🚀 Always learning, building, and improving
@@ -21,15 +21,18 @@ I'm a Computer Science student passionate about building software, exploring Art
 - CSS
 - JavaScript
 - Software Development
+- Communication
 - Git & GitHub
 - Financial Management
 - FinTech
 
 ### 📌 Featured Projects
-
+- 🟢 Habit Tracker – React.js
+-  💰 Finance Tracker – Web Development
 - 🔐 Password Generator — Python
 - ✅ To-Do List — Python
 - 🌐 Web Development Projects
+
 
 ### 🎯 Current Focus
 
